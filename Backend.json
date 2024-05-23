@@ -1,36 +1,36 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_ElectroSwing"],
+    "itemGrants": ["AthenaDance:EID_JellyFrog"],
     "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaCharacter:CID_655_Athena_Commando_F_Barefoot"],
+    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
     "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_092_Bling"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_524_Athena_Commando_F_FutureBikerWhite"],
+    "itemGrants": ["AthenaCharacter:CID_760_Athena_Commando_F_NeonTightSuit"],
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
+    "itemGrants": ["AthenaPickaxe: Pickaxe_ID_294_CandyCane"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_495_Athena_Commando_F_MechPilotShark"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
+    "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_399_Athena_Commando_F_AshtonBoardwalk"],
-    "price": 1500
+    "itemGrants": ["Athenadance:EID_ArtGiant"],
+    "price": 500
   },
   "featured2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"],
-    "price": 800
+    "itemGrants": ["Athenaglider:Glider_ID_206_Donut"],
+    "price": 1200
   },
   "featured3": {
     "itemGrants": ["AthenaGlider:Glider_ID_141_AshtonBoardwalk"],
