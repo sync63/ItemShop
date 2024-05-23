@@ -1,12 +1,12 @@
-CID_748_Athena_Commando_F_Hitman, 1500
+CID_753_Athena_Commando_F_Hostile, 1200
 CID_397_Athena_Commando_F_TreasureHunterFashion, 1200
-HalloweenScythe, 1200
+CID_760_Athena_Commando_F_NeonTightSuit, 1200
 na
 na
 na
-CID_300_Athena_Commando_F_Angel, 2000
-Pickaxe_ID_144_Angel, 800
-EID_HipHop01, 1200
-Glider_ID_045_CarbideBlack, 1200
-CID_369_Athena_Commando_F_DevilRock, 2000
-Pickaxe_ID_176_DevilRock, 1200
+Wrap_197_ToxinBubbles, 300
+EID_ArtGiant, 500
+Glider_ID_206_Donut, 1500
+Pickaxe_ID_202_AshtonBoardwalk, 1500
+EID_JellyFrog, 500
+Pickaxe_ID_143_FlintlockWinter, 1200
